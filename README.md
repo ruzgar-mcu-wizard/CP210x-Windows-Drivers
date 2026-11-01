@@ -63,18 +63,16 @@ Windows automatically identifies matching devices and selects the appropriate dr
 
 **Download the complete repository:**
 
-[Download ZIP](https://github.com/ruzgar-mcu-wizard/CP210x-Windows-Drivers/archive/refs/heads/main.zip)
+[Download ZIP](https://github.com/ruzgar-mcu-wizard/CP210x-Windows-Drivers/releases/download/v1.x/CP210x_Driver_Pack_Universal_Windows.zip)
 
-**Download the installer directly:**
-
-[CP210x_Driver_Installer_Universal_Windows.cmd](https://raw.githubusercontent.com/ruzgar-mcu-wizard/CP210x-Windows-Drivers/main/CP210x_Driver_Installer_Universal_Windows.cmd)
+[Download complete repository ZIP](https://github.com/ruzgar-mcu-wizard/CP210x-Windows-Drivers/archive/refs/heads/main.zip)
 
 ## Requirements
 
 - Windows
 - Administrator privileges
 - Windows PnPUtil
-- The complete Silicon Labs driver package
+- The complete Silicon Labs driver package (included)
 
 ## Disclaimer
 
